@@ -2,8 +2,12 @@
 content_type: resource
 description: Article written by the course professor on China in the early modern
   world.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-504-east-asia-in-the-world-spring-2003/7deaa445396311d70a37c4b53523e352_china_emod.pdf
+file: /media/courses/21h-504-east-asia-in-the-world-spring-2003/7deaa445396311d70a37c4b53523e352_china_emod.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: 'China in the Early Modern World: Shortcuts, Myths and Realities'
 uid: 7deaa445-3963-11d7-0a37-c4b53523e352
