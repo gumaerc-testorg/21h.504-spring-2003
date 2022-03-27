@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: e61e5ab5-1bad-07a6-2062-6e8202ac5078
 resourcetype: Document
 title: 'Fall 2008 Syllabus '
 uid: e8a255cc-4a7b-9b5e-72dd-65ffd8eff8a4

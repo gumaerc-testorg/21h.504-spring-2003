@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 71ee9e62-431d-211d-ca79-3abcf4981b79
 resourcetype: Document
 title: 'Chapter 16: Russia, Central Eurasia, China, Japan, 1500- 1700: Centralization
   and Commercialization'

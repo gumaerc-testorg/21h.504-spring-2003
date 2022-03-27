@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 71ee9e62-431d-211d-ca79-3abcf4981b79
 resourcetype: Document
 title: 'China in the Early Modern World: Shortcuts, Myths and Realities'
 uid: 7deaa445-3963-11d7-0a37-c4b53523e352
