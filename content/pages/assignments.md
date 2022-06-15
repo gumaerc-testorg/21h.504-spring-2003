@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provide questions to discuss in the first paper assigned
+  for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
