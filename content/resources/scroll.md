@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Chinese calligraphy on parchment
 uid: 97daef29-0674-8b70-18d8-ebd3be8497a7
 ---
 Chinese calligraphy on parchment; writing instruments. (Image by Getty Images.)
-

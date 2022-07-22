@@ -4,6 +4,7 @@ description: 'Chapter excerpt from a textbook, Global Connections: A World Histo
 file: /courses/21h-504-east-asia-in-the-world-spring-2003/e7a0d6a75a6498ea9a041a8598648d70_perdue_21.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Chapter 21: Expansion, Reform, and Communication in the Agrarian Empires
 uid: e7a0d6a7-5a64-98ea-9a04-1a8598648d70
 ---
 Chapter excerpt from a textbook, Global Connections: A World History.
-
