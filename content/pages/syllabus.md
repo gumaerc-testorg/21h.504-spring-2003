@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times and requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e61e5ab5-1bad-07a6-2062-6e8202ac5078
 ---
@@ -14,7 +18,7 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2008, Ian Chapman ([PDF]({{< baseurl >}}/resources/mit21h_504s03_syllf08))
+> Fall 2008, Ian Chapman ({{% resource_link e8a255cc-4a7b-9b5e-72dd-65ffd8eff8a4 "PDF" %}})
 
 Overview
 --------
