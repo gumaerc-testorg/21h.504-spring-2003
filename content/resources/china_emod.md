@@ -3,6 +3,7 @@ content_type: resource
 description: Article written by the course professor on China in the early modern
   world.
 file: /courses/21h-504-east-asia-in-the-world-spring-2003/7deaa445396311d70a37c4b53523e352_china_emod.pdf
+file_size: 347392
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

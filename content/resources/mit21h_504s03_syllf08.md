@@ -2,6 +2,7 @@
 content_type: resource
 description: Syllabus from the Fall 2008 version of 21H.504 East Asia in the World.
 file: /courses/21h-504-east-asia-in-the-world-spring-2003/e8a255cc4a7b9b5e72dd65ffd8eff8a4_MIT21H_504s03_syllf08.pdf
+file_size: 60305
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
