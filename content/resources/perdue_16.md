@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Chapter excerpt from a textbook, Global Connections: A World History.'
-file: /ol-ocw-studio-app/courses/21h-504-east-asia-in-the-world-spring-2003/c5bdd50115f059f82e6295ebb6cbd06b_perdue_16.pdf
+file: /courses/21h-504-east-asia-in-the-world-spring-2003/c5bdd50115f059f82e6295ebb6cbd06b_perdue_16.pdf
 file_size: 671664
 file_type: application/pdf
 learning_resource_types: []
