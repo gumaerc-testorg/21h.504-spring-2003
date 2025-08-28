@@ -2,7 +2,7 @@
 content_type: resource
 description: Chinese calligraphy on parchment; writing instruments. (Image by Getty
   Images.)
-file: /courses/21h-504-east-asia-in-the-world-spring-2003/97daef2906748b7018d8ebd3be8497a7_scroll.jpg
+file: /ol-ocw-studio-app/courses/21h-504-east-asia-in-the-world-spring-2003/97daef2906748b7018d8ebd3be8497a7_scroll.jpg
 file_size: 90893
 file_type: image/jpeg
 image_metadata:
